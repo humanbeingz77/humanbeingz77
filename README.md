@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @humanbeingz77
+- 👋 Hi, I’m @abhipande
 - 👀 Interested in insights related to Covid using data
 
 
